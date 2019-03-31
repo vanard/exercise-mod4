@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "864534193638",
+    "firebase_url": "https://vianrasyiddiyatma1202154186-m6.firebaseio.com",
+    "project_id": "vianrasyiddiyatma1202154186-m6",
+    "storage_bucket": "vianrasyiddiyatma1202154186-m6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864534193638:android:f8b41b13a78ae235",
+        "android_client_info": {
+          "package_name": "com.studycase.vanard.vianrasyiddiyatma_1202154186_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864534193638-3abs6fpk2qp7e1mg2khf0ub7ui4ri3ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studycase.vanard.vianrasyiddiyatma_1202154186_modul6",
+            "certificate_hash": "a5bcb7e614bfd4516fa534a93a8d7e3735e12a25"
+          }
+        },
+        {
+          "client_id": "864534193638-v1922du7io2v78n2nfeo8kkll8ahkl04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fuC46-2QmuUM0fIlDTRStwR9zh0Qurg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864534193638-v1922du7io2v78n2nfeo8kkll8ahkl04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864534193638:android:b8ccd8b1e718139f",
+        "android_client_info": {
+          "package_name": "com.vanard.vian_1202154186_si4008_pab_modul4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864534193638-smk51ii0kg9jddr1lpdr4lokpaue7g6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanard.vian_1202154186_si4008_pab_modul4",
+            "certificate_hash": "637760aa6521f2a4cd028807a07b08d80246dd64"
+          }
+        },
+        {
+          "client_id": "864534193638-v1922du7io2v78n2nfeo8kkll8ahkl04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fuC46-2QmuUM0fIlDTRStwR9zh0Qurg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864534193638-v1922du7io2v78n2nfeo8kkll8ahkl04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
